@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'functionAICode'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8D42F84190384C0BBB06D6DC596A7BAF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_52719EC6B7EF4A9B8E18BA3A9944BAFA }}
